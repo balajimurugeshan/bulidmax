@@ -1,0 +1,1593 @@
+@media screen and (max-width:1284px) {
+    .navsec li {
+        margin-right: 20px;
+    }
+}
+@media screen and (max-width:1276px) {
+    .contact {
+        display: none;
+    }
+
+    .backsection {
+        background-image: url(./images/banner-bg.png);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 10px;
+    }
+
+    .navsec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+    .navsec li {
+        margin-right: 0px;
+    }
+
+    .get {
+        background-color: transparent;
+    }
+
+    .navbtn {
+        display: block;
+        position: absolute;
+        top: 1%;
+        left: 95%;
+    }
+
+    #block {
+        display: none;
+    }
+
+    #block.sh {
+        display: block;
+    }
+
+    .btn {
+        display: none;
+    }
+
+    /* Service Section */
+    .oursection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .oursection1 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        gap: 100px;
+    }
+
+    .oursection1 div {
+        width: 350px;
+    }
+
+    .oursection2 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 100px;
+        margin-top: 50px;
+    }
+
+    .oursection2 div {
+        width: 350px;
+    }
+
+    .our3 {
+        height: 410px;
+    }
+
+    .our3 h3 {
+        margin-top: -20px;
+    }
+
+    .our4 {
+        height: 410px;
+    }
+
+    .our4 h3 {
+        margin-top: 20px;
+    }
+
+    .oursection div img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .oursection div p {
+        width: 330px;
+        line-height: 35px;
+    }
+
+    /*About Section  */
+    .aboutdetails p {
+        width: 400px;
+    }
+
+    .aboutimg {
+        background-image: url(./images/about-img.png);
+        width: 450px;
+        height: 400px;
+    }
+
+    /*Project Section  */
+    .project_nav ol {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .slider-container {
+        margin-left: 84px;
+        margin-right: 84px;
+    }
+
+    .project div img {
+        width: 250px;
+    }
+
+    .project div h5 {
+        width: 250px;
+        margin: 0px;
+    }
+
+    .project div p {
+        width: 250px;
+        margin: 0px;
+        font-size: 14px;
+    }
+
+    /* Test section */
+    .test {
+        background-color: #1b1b1b;
+        color: #ffffff;
+        padding: 60px 0px 45px 0px
+    }
+
+    .test h1 {
+        text-align: center;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+
+    .testsection div p {
+        width: 800px;
+    }
+
+    /* Contact Section */
+    .contact_section input {
+        width: 400px;
+    }
+
+    .message {
+        height: 80px;
+    }
+
+    .contact_section img {
+        width: 450px;
+        margin-top: 50px;
+    }
+
+    /* Final Section */
+    .site_inform h1 {
+        font-size: 18px;
+    }
+
+    .site_inform div p {
+        width: 280px;
+    }
+
+    .final_section input {
+        width: 250px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:920px) {
+    .contact {
+        display: none;
+    }
+
+    .backsection {
+        background-image: url(./images/banner-bg.png);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 10px;
+    }
+
+    .navsec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+    .navsec li {
+        margin-right: 0px;
+    }
+
+    .get {
+        background-color: transparent;
+    }
+
+    #block {
+        display: none;
+    }
+
+    #block.sh {
+        display: block;
+    }
+
+
+    /* Service Section */
+    .oursection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .oursection1 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        gap: 80px;
+    }
+
+    .oursection1 div {
+        width: 280px;
+    }
+
+    .oursection2 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 80px;
+    }
+
+    .oursection2 div {
+        width: 280px;
+    }
+
+    .our3 {
+        height: 410px;
+    }
+
+    .our3 h3 {
+        margin-top: -20px;
+    }
+
+    .our4 {
+        height: 410px;
+    }
+
+    .our4 h3 {
+        margin-top: 20px;
+    }
+
+    .oursection div img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .oursection div p {
+        width: 250px;
+        line-height: 35px;
+    }
+
+    /*About Section  */
+    .aboutdetails p {
+        width: 300px;
+        font-size: 15px;
+    }
+
+    .aboutimg {
+        background-image: url(./images/about-img.png);
+        width: 350px;
+        height: 300px;
+    }
+
+    /*Project Section  */
+    .project_nav ol {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0px;
+        font-size: 100px;
+    }
+
+    .project_nav ol li {
+        font-size: 13px;
+    }
+
+    .slider-container {
+        margin-left: 84px;
+        margin-right: 84px;
+    }
+
+    .project div img {
+        width: 200px;
+    }
+
+    .project div h5 {
+        width: 200px;
+        margin: 0px;
+    }
+
+    .project div p {
+        width: 200px;
+        margin: 0px;
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+    /* Test section */
+    .test {
+        background-color: #1b1b1b;
+        color: #ffffff;
+        padding: 60px 0px 45px 0px
+    }
+
+    .test h1 {
+        text-align: center;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+
+    .testsection div p {
+        width: 600px;
+        font-size: 14px;
+    }
+
+    /* Contact Section */
+    .contact_section input {
+        width: 300px;
+        margin: 10px;
+    }
+
+    .message {
+        height: 80px;
+    }
+
+    .contact_section img {
+        width: 400px;
+        margin-top: 50px;
+    }
+
+    /* Final Section */
+    .contact_dt {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        font-size: 15px;
+        padding-top: 100px;
+        padding-bottom: 30px;
+    }
+
+    .site_inform h1 {
+        font-size: 15px;
+    }
+
+    .site_inform .ol_list li {
+        font-size: 15px;
+    }
+
+    .site_inform div p {
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .final_section input {
+        width: 200px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width:790px) {
+    .contact {
+        display: none;
+    }
+
+    .backsection {
+        background-image: url(./images/banner-bg.png);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 10px;
+    }
+
+    .navsec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+    .navsec li {
+        margin-right: 0px;
+    }
+
+    .get {
+        background-color: transparent;
+    }
+    .backsection .carosalsection h1 {
+    
+        font-size: 50px;
+        width: 400px;
+    }
+
+    .backsection .carosalsection P {
+        width: 400px;
+        font-size: medium;
+    }
+
+    #block {
+        display: none;
+    }
+
+    #block.sh {
+        display: block;
+    }
+
+    /* Service Section */
+    .oursection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .oursection1 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        gap: 80px;
+    }
+
+    .oursection1 div {
+        width: 220px;
+        height: 330px;
+    }
+
+    .oursection2 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 80px;
+    }
+
+    .oursection2 div {
+        width: 220px;
+        height: 330px;
+    }
+
+    .our3 h3 {
+        margin-top: -20px;
+    }
+
+    .our4 {
+        height: 300px;
+    }
+
+    .our4 h3 {
+        margin-top: 20px;
+    }
+
+    .oursection div img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .oursection div h3 {
+        font-size: 20px;
+    }
+
+    .oursection div p {
+        width: 200px;
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    /*About Section  */
+    .aboutdetails p {
+        width: 250px;
+        font-size: 12px;
+    }
+
+    .aboutdetails a {
+        padding: 5px;
+    }
+
+    .aboutimg {
+        background-image: url(./images/about-img.png);
+        width: 290px;
+        height: 280px;
+    }
+
+    /*Project Section  */
+    .project_nav ol {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .project_nav ol li {
+        font-size: 11px;
+        padding: 10px 20px 10px 0px;
+        letter-spacing: 0px;
+    }
+
+    .slider-container {
+        margin-left: 84px;
+        margin-right: 84px;
+    }
+
+    .project div img {
+        width: 150px;
+    }
+
+    .project div h5 {
+        width: 150px;
+        margin: 0px;
+        font-size: medium;
+    }
+
+    .project div p {
+        width: 150px;
+        margin: 0px;
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    /* Test section */
+    .test {
+        background-color: #1b1b1b;
+        color: #ffffff;
+        padding: 60px 0px 45px 0px
+    }
+
+    .test h1 {
+        text-align: center;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+
+    .testsection div p {
+        width: 500px;
+        font-size: 12px;
+    }
+
+    /* Contact Section */
+    .contact_section input {
+        width: 270px;
+        margin: 10px;
+    }
+
+    .message {
+        height: 50px;
+    }
+
+    .contact_section img {
+        width: 320px;
+        height: 250px;
+        margin-top: 50px;
+    }
+
+    /* Map section */
+    .map iframe {
+        width: 100%;
+        height: 500px;
+        border: solid;
+        border-width: 10px;
+        border-color: #aaaa;
+    }
+
+    /* Final Section */
+    .contact_dt {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        font-size: 15px;
+        padding-top: 100px;
+        padding-bottom: 30px;
+    }
+
+    .site_inform h1 {
+        font-size: 15px;
+    }
+
+    .site_inform .ol_list li {
+        font-size: 12px;
+    }
+
+    .site_inform div p {
+        width: 180px;
+        font-size: 12px;
+    }
+
+    .site_inform div button {
+        font-size: small;
+    }
+
+    .final_section input {
+        width: 200px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width:690px) {
+    .contact {
+        display: none;
+    }
+
+    .backsection {
+        background-image: url(./images/banner-bg.png);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 10px;
+    }
+
+    .navsec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+    .navsec li {
+        margin-right: 0px;
+    }
+
+    .get {
+        background-color: transparent;
+    }
+
+
+    .backsection .carosalsection h1 {
+        font-size: 40px;
+        width: 400px;
+    }
+
+    .backsection .carosalsection P {
+        width: 320px;
+        font-size: 13px;
+    }
+
+    #block {
+        display: none;
+    }
+
+    #block.sh {
+        display: block;
+    }
+
+    /* Service Section */
+    .oursection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .oursection1 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        gap: 80px;
+    }
+
+    .oursection1 div {
+        width: 220px;
+        height: 330px;
+    }
+
+    .oursection2 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 80px;
+    }
+
+    .oursection2 div {
+        width: 220px;
+        height: 330px;
+    }
+
+    .our3 h3 {
+        margin-top: -20px;
+    }
+
+    .our4 {
+        height: 300px;
+    }
+
+    .our4 h3 {
+        margin-top: 20px;
+    }
+
+    .oursection div img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .oursection div h3 {
+        font-size: 20px;
+    }
+
+    .oursection div p {
+        width: 200px;
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    /*About Section  */
+    .about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .aboutdetails p {
+        width: 450px;
+        font-size: 12px;
+    }
+
+    .aboutdetails a {
+        padding: 5px;
+    }
+
+    .aboutimg {
+        margin-top: 20px;
+        background-image: url(./images/about-img.png);
+        width: 450px;
+        height: 300px;
+    }
+
+    /*Project Section  */
+    .project_nav ol {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .project_nav ol li {
+        font-size: 11px;
+        padding: 10px 20px 10px 0px;
+        letter-spacing: 0px;
+    }
+
+    .slider-container {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .project div img {
+        width: 150px;
+    }
+
+    .project div h5 {
+        width: 150px;
+        margin: 0px;
+        font-size: medium;
+    }
+
+    .project div p {
+        width: 150px;
+        margin: 0px;
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    /* Test section */
+    .testhover {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        /* justify-content: ; */
+        gap: 0;
+    }
+
+    .test {
+        background-color: #1b1b1b;
+        color: #ffffff;
+        padding: 60px 0px 45px 0px
+    }
+
+    .test h1 {
+        text-align: center;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+
+    .testsection div p {
+        width: 400px;
+        font-size: 12px;
+    }
+
+    /* Contact Section */
+    .contact_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .contact_section input {
+        width: 450px;
+        margin: 10px;
+    }
+
+    .message {
+        height: 100px;
+    }
+
+    .contact_section img {
+        width: 450px;
+        height: 350px;
+        margin-top: 50px;
+    }
+
+    /* Map section */
+    .map iframe {
+        width: 100%;
+        height: 450px;
+        border: solid;
+        border-width: 10px;
+        border-color: #aaaa;
+    }
+
+    /* Final Section */
+    .contact_dt {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        font-size: 15px;
+        padding-top: 100px;
+        padding-bottom: 30px;
+    }
+
+    .site_inform {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        padding-top: 20px;
+        margin-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    .site_inform h1 {
+        font-size: 25px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .site_inform .ol_list li {
+        font-size: 16px;
+    }
+
+    .site_inform div p {
+        text-align: center;
+        width: 530px;
+        font-size: 17px;
+    }
+
+    .site_inform div button {
+        font-size: small;
+    }
+
+    .final_section input {
+        width: 380px;
+        height: 30px;
+    }
+
+    .icon i {
+        padding-right: 20px;
+        color: #ffffff;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .contact {
+        display: none;
+    }
+
+    .backsection {
+        background-image: url(./images/banner-bg.png);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 10px;
+    }
+
+    .navsec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+    .navsec li {
+        margin-right: 0px;
+    }
+
+    .get {
+        background-color: transparent;
+    }
+
+    .backsection .carosalsection h1 {
+        font-size: 30px;
+        width: 200px;
+    }
+
+    .carosalsection {
+        margin-left: 80px;
+    }
+
+    .backsection .carosalsection P {
+        width: 200px;
+        font-size: 12px;
+    }
+
+    #block {
+        display: none;
+    }
+
+    #block.sh {
+        display: block;
+    }
+
+    .btn {
+        position: absolute;
+        top: 50%;
+        left: 10px;
+    }
+
+    .btn button {
+        width: 45px;
+        height: 45px;
+        border: none;
+        background-color: #fda417;
+        color: #ffffff;
+        border-radius: 50%;
+    }
+
+
+    /* Service Section */
+    .oursection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .oursection1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        gap: 80px;
+    }
+
+    .oursection1 div {
+        width: 320px;
+        height: 350px;
+    }
+
+    .oursection2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        /* gap: 80px; */
+    }
+
+    .oursection2 div {
+        width: 320px;
+        height: 330px;
+    }
+
+    .our3 h3 {
+        margin-top: -20px;
+    }
+
+    .our4 {
+        height: 330px;
+    }
+
+    .our4 h3 {
+        margin-top: 20px;
+    }
+
+    .oursection div img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .oursection div h3 {
+        font-size: 30px;
+    }
+
+    .oursection div p {
+        width: 300px;
+        line-height: 30px;
+        font-size: 15px;
+    }
+
+    /*About Section  */
+    .about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .aboutdetails p {
+        width: 400px;
+        font-size: 12px;
+    }
+
+    .aboutdetails a {
+        padding: 5px;
+    }
+
+    .aboutimg {
+        margin-top: 20px;
+        background-image: url(./images/about-img.png);
+        width: 400px;
+        height: 280px;
+    }
+
+    /*Project Section  */
+    .project_nav ol {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .project_nav ol li {
+        font-size: 11px;
+        padding: 10px 20px 10px 0px;
+        letter-spacing: 0px;
+    }
+
+    .slider-container {
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+
+    .project div img {
+        width: 150px;
+    }
+
+    .project div h5 {
+        width: 150px;
+        margin: 0px;
+        font-size: medium;
+    }
+
+    .project div p {
+        width: 150px;
+        margin: 0px;
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    /* Test section */
+    .testhover {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        /* justify-content: ; */
+        gap: 0;
+    }
+
+    .test {
+        background-color: #1b1b1b;
+        color: #ffffff;
+        padding: 60px 0px 45px 0px
+    }
+
+    .test h1 {
+        text-align: center;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+
+    .testsection div p {
+        width: 350px;
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    /* Contact Section */
+    .contact_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .contact_section input {
+        width: 350px;
+        margin: 10px;
+    }
+
+    .message {
+        height: 80px;
+    }
+
+    .contact_section img {
+        width: 350px;
+        height: 300px;
+        margin-top: 50px;
+    }
+
+    /* Map section */
+    .map iframe {
+        width: 100%;
+        height: 450px;
+        border: solid;
+        border-width: 10px;
+        border-color: #aaaa;
+    }
+
+    /* Final Section */
+    .contact_dt {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        font-size: 17px;
+        padding-top: 100px;
+        padding-bottom: 0px
+    }
+
+    .site_inform {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        padding-top: 20px;
+        margin-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    .site_inform h1 {
+        font-size: 20px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .site_inform .ol_list li {
+        font-size: 16px;
+    }
+
+    .site_inform div p {
+        text-align: center;
+        width: 420px;
+        font-size: 17px;
+    }
+
+    .site_inform div button {
+        font-size: small;
+    }
+
+    .final_section input {
+        width: 300px;
+        height: 30px;
+    }
+
+    .icon i {
+        padding-right: 20px;
+        color: #ffffff;
+    }
+}
+
+@media screen and (max-width:461px) {
+    .contact {
+        display: none;
+    }
+
+    .backsection {
+        background-image: url(./images/banner-bg.png);
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 10px;
+    }
+
+    .navsec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        font-size: 14px;
+    }
+
+    .navsec li {
+        margin-right: 0px;
+    }
+
+    .get {
+        background-color: transparent;
+    }
+
+    .backsection .carosalsection h1 {
+        font-size: 20px;
+        width: 300px;
+    }
+
+    .carosalsection {
+        width: 300px;
+        margin-left: 60px;
+    }
+
+    .backsection .carosalsection P {
+        width: 240px;
+        font-size: 12px;
+    }
+
+    .navbtn {
+        display: block;
+        position: absolute;
+        top: 2%;
+        left: 90%;
+    }
+
+    #block {
+        display: none;
+    }
+
+    #block.sh {
+        display: block;
+    }
+
+    .btn {
+        position: absolute;
+        top: 40%;
+        left: 1px;
+
+    }
+
+    .btn button {
+        width: 35px;
+        height: 38px;
+        border: none;
+        background-color: #fda417;
+        color: #ffffff;
+        border-radius: 50%;
+    }
+
+
+    /* Service Section */
+    .oursection {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .our p {
+        font-size: x-small;
+    }
+
+    .oursection1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        gap: 80px;
+    }
+
+    .oursection1 div {
+        width: 250px;
+        height: 350px;
+    }
+
+    .oursection2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        /* gap: 80px; */
+    }
+
+    .oursection2 div {
+        width: 250px;
+        height: 330px;
+    }
+
+    .our3 h3 {
+        margin-top: -20px;
+    }
+
+    .our4 {
+        height: 330px;
+    }
+
+    .our4 h3 {
+        margin-top: 20px;
+    }
+
+    .oursection div img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .oursection div h3 {
+        font-size: 30px;
+    }
+
+    .oursection div p {
+        width: 230px;
+        line-height: 30px;
+        font-size: 13px;
+    }
+
+    /*About Section  */
+    .about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .aboutdetails p {
+        width: 300px;
+        font-size: 12px;
+    }
+
+    .aboutdetails a {
+        padding: 5px;
+    }
+
+    .aboutimg {
+        margin-top: 20px;
+        background-image: url(./images/about-img.png);
+        width: 300px;
+        height: 240px;
+    }
+
+    /*Project Section  */
+    .project_nav ol {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        margin: 0px;
+        flex-wrap: wrap;
+        width: 300px;
+    }
+
+    .project_nav {
+        width: 300px;
+    }
+
+    .slider div {
+        width: 300px;
+    }
+
+    .project_nav ol li {
+        font-size: 11px;
+        padding-right: 3px;
+
+    }
+
+    .slider-container {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+    .project div img {
+        width:85px;
+        height: 100px;
+    }
+
+    .project div h5 {
+        width: 85px;
+        height: 20px;
+        margin: 0px;
+        padding: 0px;
+        font-size: 10px;
+    }
+
+    .project div p {
+        width: 85px;
+        padding-top: 20px;
+        font-size: 8px;
+        line-height: 13px;
+    }
+
+    /* Test section */
+    .test {
+        width: 100%;
+    }
+
+    .testhover {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        /* justify-content: ; */
+        gap: 0;
+    }
+
+    .testsection {
+        width: 300px;
+    }
+
+    .test {
+        background-color: #1b1b1b;
+        color: #ffffff;
+        padding: 60px 0px 45px 0px
+    }
+
+    .test h1 {
+        text-align: center;
+        font-weight: bolder;
+        line-height: 30px;
+        width: 100%;
+    }
+
+    .testsection div p {
+        width: 280px;
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    /* Contact Section */
+    .contact_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .contact_section input {
+        width: 300px;
+        margin: 10px;
+    }
+
+    .message {
+        height: 80px;
+    }
+
+    .contact_section img {
+        width: 300px;
+        height: 280px;
+        margin-top: 50px;
+    }
+
+    /* Map section */
+    .map iframe {
+        width: 100%;
+        height: 300px;
+        border: solid;
+        border-width: 10px;
+        border-color: #aaaa;
+    }
+
+    /* Final Section */
+    .contact_dt {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        font-size: 17px;
+        padding-top: 100px;
+        padding-bottom: 0px
+    }
+
+    .site_inform {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        color: #ffffff;
+        padding-top: 0px;
+        margin-top: 0px;
+        padding-bottom: 40px;
+    }
+
+    .site_inform h1 {
+        font-size: 20px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .site_inform .ol_list li {
+        font-size: 16px;
+    }
+
+    .site_inform div p {
+        text-align: center;
+        width: 280px;
+        font-size: 13px;
+    }
+
+    .site_inform div button {
+        font-size: small;
+    }
+
+    .final_section input {
+        width: 250px;
+        height: 30px;
+        padding: 0px;
+        margin: -10px;
+    }
+
+    .final_section .input {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .final_section button {
+        margin-top: -20px;
+    }
+
+    .icon i {
+        padding-right: 20px;
+        color: #ffffff;
+    }
+}

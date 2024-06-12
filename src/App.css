@@ -1,0 +1,97 @@
+/* .body
+{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+.main
+{
+  width: 700px;
+  height: 550px;
+  border-style: solid;
+  border-radius: 20px;
+  background:linear-gradient(to bottom right, rgb(142, 219, 250), rgb(253, 211, 172));
+ box-shadow: 5px 5px 5px black;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.calc
+{
+  width: 350px;
+  height: 450px;
+  border-style: solid;
+  border-radius: 20px;
+ background-color: #4357692d;
+ border-color: #4357692d;
+ display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.calc input{
+  position: absolute;
+  top:14%;
+  width: 330px;
+  height: 70px;
+  border: none;
+  border-radius: 10px;
+  background-color: #4357692d;
+ border-color: #4357692d;
+border-style: solid 2x;
+font-size: 50px;
+text-align: right;
+}
+.btn1
+{
+  position: absolute;
+  top: 30%;
+  display: flex;
+  grid-template-columns: repeat(auto-fill,minmax(40px,1fr));
+  gap: 3px;
+}
+.btn2
+{
+  position: absolute;
+  top: 40%;
+  display: flex;
+  grid-template-columns: repeat(auto-fill,minmax(40px,1fr));
+  gap: 3px;
+}
+.btn3
+{
+  position: absolute;
+  top: 50%;
+  display: flex;
+  grid-template-columns: repeat(auto-fill,minmax(40px,1fr));
+  gap: 3px;
+}
+.btn4
+{
+  position: absolute;
+  top: 60%;
+  display: flex;
+  grid-template-columns: repeat(auto-fill,minmax(40px,1fr));
+  gap: 3px;
+}
+.btn5
+{
+  position: absolute;
+  top: 70%;
+  display: flex;
+  grid-template-columns: repeat(auto-fill,minmax(40px,1fr));
+  gap: 3px;
+}
+button
+{
+  width: 70px;
+  height: 50px;
+  background-color: rgb(172, 142, 221);
+  border-radius: 10px;
+  color: white;
+} */
+/* #equal
+{
+  width: 150px;
+  background-color: #f33d1d;
+} */
